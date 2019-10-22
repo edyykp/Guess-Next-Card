@@ -1,0 +1,3 @@
+-In order to open the code and start the game, open WindowsFormsApp1.sln;
+-Press "Start" in the menu from the top.
+-more details about the gameplay after you register and log in
