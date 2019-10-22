@@ -1,0 +1,66 @@
+c:\users\eu\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\users\eu\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\users\eu\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\users\eu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+c:\users\eu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+c:\users\eu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\eu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+c:\users\eu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+c:\users\eu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\users\eu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Eu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Eu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Eu\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Eu\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Eu\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Eu\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Eu\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Eu\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Eu\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Eu\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Eu\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Eu\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Eu\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Eu\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Eu\source\repos\WindowsFormsApp1\bin\Debug\login1.mdf
+C:\Users\Eu\source\repos\WindowsFormsApp1\bin\Debug\login1_log.ldf
+C:\Users\Eu\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Eu\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\Edi\Desktop\WindowsFormsApp1\bin\Debug\login1.mdf
+C:\Users\Edi\Desktop\WindowsFormsApp1\bin\Debug\login1_log.ldf
+C:\Users\Edi\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Edi\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Edi\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Edi\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Edi\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Edi\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Edi\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Edi\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Edi\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Edi\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.login.resources
+C:\Users\Edi\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.register.resources
+C:\Users\Edi\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.game.resources
+C:\Users\Edi\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.start.resources
+C:\Users\Edi\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.help.resources
+C:\Users\Edi\Desktop\WindowsFormsApp1\bin\Debug\Facebook.dll
+C:\Users\Edi\Desktop\WindowsFormsApp1\bin\Debug\Facebook.xml
+C:\Users\Edi\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Edi\Desktop\Guess Next Card\bin\Debug\login1.mdf
+C:\Users\Edi\Desktop\Guess Next Card\bin\Debug\login1_log.ldf
+C:\Users\Edi\Desktop\Guess Next Card\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Edi\Desktop\Guess Next Card\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Edi\Desktop\Guess Next Card\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Edi\Desktop\Guess Next Card\bin\Debug\Facebook.dll
+C:\Users\Edi\Desktop\Guess Next Card\bin\Debug\Facebook.xml
+C:\Users\Edi\Desktop\Guess Next Card\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Edi\Desktop\Guess Next Card\obj\Debug\WindowsFormsApp1.login.resources
+C:\Users\Edi\Desktop\Guess Next Card\obj\Debug\WindowsFormsApp1.register.resources
+C:\Users\Edi\Desktop\Guess Next Card\obj\Debug\WindowsFormsApp1.game.resources
+C:\Users\Edi\Desktop\Guess Next Card\obj\Debug\WindowsFormsApp1.start.resources
+C:\Users\Edi\Desktop\Guess Next Card\obj\Debug\WindowsFormsApp1.help.resources
+C:\Users\Edi\Desktop\Guess Next Card\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Edi\Desktop\Guess Next Card\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Edi\Desktop\Guess Next Card\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Edi\Desktop\Guess Next Card\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Edi\Desktop\Guess Next Card\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Edi\Desktop\Guess Next Card\obj\Debug\WindowsFormsApp1.pdb
