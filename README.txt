@@ -8,7 +8,8 @@ Form 1: start.cs
 
 Form 2: login.cs
 	-includes 2 textboxes ( username, password ) and 3 buttons ( login, register, exit game)
-	-pressing the login button, the code checks if the username and password exist in the database and opens game.cs if so. 	 Otherwise, a MessageBox will pop up telling the user
+	-pressing the login button, the code checks if the username and password exist in the database and 
+	 opens game.cs if so. Otherwise, a MessageBox will pop up telling the user
 	 to try again 
 	-there is a show-password switch
 	-pressing the register button, this form closes and register.cs shows up
